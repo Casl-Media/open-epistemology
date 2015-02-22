@@ -75,3 +75,39 @@ quora
 </a>
 </li>
 </ol>
+
+<h4><a href="http://en.wikipedia.org/wiki/Concept_map">Concept Mapping</a></h4>
+<ol>
+<li>
+Wikipedia related
+<ul>
+<li>
+<a href="http://infodisiac.com/Wikimedia/Visualizations/">Wikipedia Visualizations</a> (<a href="http://infodisiac.com/">infodisiac.com</a> collection)
+</li>
+<li>
+<a href="http://www.zo.utexas.edu/faculty/antisense/downloadfilestol.html">Wiki Viz</a>
+</li>
+<li>
+<a href="http://sepans.com/wikistalker/">Wikistalker</a> (<a href="http://sepans.com/">sepans.com</a>)
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.zo.utexas.edu/faculty/antisense/downloadfilestol.html">
+Tree of Life (Hillis Plot)
+</a>
+</li>
+<li>
+Maintained collections
+<ul>
+<li>
+<a href="http://scimaps.org/iteration">
+Places & Spaces, Mapping Science (scimaps.org)
+</a>
+</li>
+<li>
+<a href="http://www.nickpinkston.com/posters.html">The Sum of Human Knowledge Through Posters</a> (<a href="http://www.nickpinkston.com/">nickpinkston.com</a> collection)
+</li>
+</ul>
+</li>
+</ol>
