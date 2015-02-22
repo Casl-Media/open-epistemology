@@ -5,7 +5,7 @@
 
 <ol>
 <li>
-Research and share current solutions
+Research and share current solutions <a href="research/links.md">links</a>
 </li>
 <li>
 Discuss opportunities for improvement in current systems and describe possible new systems
