@@ -1,4 +1,5 @@
 Starting as a canvas of ideas for open knowledge solutions.
+<h2>Starting as a canvas of ideas for open knowledge solutions.</h2>
 
 Step 1
 Research and share current solutions
