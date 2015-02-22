@@ -8,7 +8,7 @@
 <ol>
 <li>
 <a href="http://www.tolweb.org/tree/">
-Tree of Life 
+Tree of Life (tolweb.org)
 </a> 
 </li>
 <li>
