@@ -1,4 +1,4 @@
-<h2>discussion of raw on concepts/ideas</h2>
+<h2>discussion of early concepts/ideas</h2>
 <h3>(things that need research and disucssion)</h3>
 <ul>
 <li>
