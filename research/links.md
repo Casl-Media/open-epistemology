@@ -1,8 +1,9 @@
 <h2>Current Solutions</h2>
 <hr>
 <p>need to add context for links and rankings</p>
-<p>ranked by my current preference, should move towards multiple orderings based on different metrics</p>
-<p>only including those i've had personal experience with, not a blanket summary (e.g. MOOCS link)</p>
+<p>meta data on links -> groupings, interactive display, let other create groups and connections</p>
+<p>should have one form of grouping/ranking based on license/license limitations</p>
+<p>only including those i've had personal experience with, could add a blanket approach for all that meet certain criteria, need to define groups based on meta data</p>
 <hr>
 <h4>Maintained Knowledge Bases</h4>
 <ol>
@@ -27,6 +28,7 @@ Cornell University Library arXiv.org
 </a> 
 </li>
 </ol>
+<hr>
 
 <h4><a href="http://en.wikipedia.org/wiki/Massive_open_online_course#Providers">MOOCS</a></h4>
 <ol>
@@ -56,6 +58,7 @@ Wibit
 </a>
 </li>
 </ol>
+<hr>
 
 <h4>Community</h4>
 <ol>
@@ -75,6 +78,7 @@ quora
 </a>
 </li>
 </ol>
+<hr>
 
 <h4><a href="http://en.wikipedia.org/wiki/Concept_map">Concept Mapping</a></h4>
 <ol>
@@ -109,5 +113,32 @@ Places & Spaces, Mapping Science (scimaps.org)
 <a href="http://www.nickpinkston.com/posters.html">The Sum of Human Knowledge Through Posters</a> (<a href="http://www.nickpinkston.com/">nickpinkston.com</a> collection)
 </li>
 </ul>
+</li>
+</ol>
+<hr>
+
+<h4><a href="http://en.wikipedia.org/wiki/Open_data">Open Data</a></h4>
+<ol>
+*Needs more research, no hands-on experience actually using open data sets (yet)
+<li>
+<a href="http://en.wikipedia.org/wiki/Open_science_data">Open Science</a>
+<ul>
+<li>
+<a href="http://dataverse.org/">Dataverse</a>
+</li>
+</ul>
+<li>
+<a href="http://en.wikipedia.org/wiki/Open_government">Open Government</a>
+<ul>
+<li>
+<a href="http://data.gov.uk/">Data.gov.uk</a>
+</li>
+<li>
+<a href="http://www.data.gov/">Data.gov</a>
+</li>
+</ul>
+</li>
+<li>
+some APIs might qualify
 </li>
 </ol>
