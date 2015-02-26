@@ -14,6 +14,11 @@ Research and share current solutions
 </li>
 <li>
 Discuss opportunities for improvement in current systems and describe possible new systems
+<ul>
+<li>
+<a href="research/discussion.md">discussion of early concepts/ideas</a>
+</li>
+</ul>
 </li>
 <li>
 Form list of ideas to puruse
