@@ -3,6 +3,7 @@
 <ul>
 <li>
 scan a collection of books that are all similar and which the analyst is fimilar with. Search for measures of similarity, patterns, lexical metrics, etc. Say, <b>X</b> number of book all about thermodynamics, how many would you need to cite for it to be equivalent to public data, thus open data? <b>X=100, X=1,000... </b>? 
+<ul><li><a href="links.md">links</a></li></ul>
 </li>
 <li>
 exploring via math

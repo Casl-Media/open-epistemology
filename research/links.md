@@ -8,6 +8,9 @@
 <h4>Maintained Knowledge Bases</h4>
 <ol>
 <li>
+<a href="https://archive.org/">Internet Archive</a>
+</li>
+<li>
 <a href="http://www.tolweb.org/tree/">
 Tree of Life (tolweb.org)
 </a> 
@@ -118,8 +121,8 @@ Places & Spaces, Mapping Science (scimaps.org)
 <hr>
 
 <h4><a href="http://en.wikipedia.org/wiki/Open_data">Open Data</a></h4>
+<p>Needs more research, no hands-on experience actually using open data sets (yet)</p>
 <ol>
-*Needs more research, no hands-on experience actually using open data sets (yet)
 <li>
 <a href="http://en.wikipedia.org/wiki/Open_science_data">Open Science</a>
 <ul>
@@ -140,5 +143,31 @@ Places & Spaces, Mapping Science (scimaps.org)
 </li>
 <li>
 some APIs might qualify
+</li>
+</ol>
+<hr>
+
+<h4>Open Books</h4>
+<p>Topic is linked to some dicussion <a href="discussion.md">here</a>. For analyzing <b>X</b> number of books from the same topic or genre to make an argument the similar information between the books should be open data</p>
+<ol>
+<li>
+<a href="http://www.feynmanlectures.info/">The Feynman Lectures on Physics</a>
+</li>
+<li>
+<a href="http://www.gutenberg.org/">Project Gutenberg</a>
+</li>
+<li>
+<a href="http://www.oreilly.com/openbook/">O'Reilly Open Books</a>
+</li>
+<li>
+Blanket collections
+<ul>
+<li>
+open culture: <a href="http://www.openculture.com/free_ebooks">ebooks</a>, <a href="http://www.openculture.com/free_textbooks">textbooks</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13">some APIs</a> might qualify
 </li>
 </ol>
