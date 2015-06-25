@@ -171,3 +171,21 @@ open culture: <a href="http://www.openculture.com/free_ebooks">ebooks</a>, <a hr
 <a href="http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13">some APIs</a> might qualify
 </li>
 </ol>
+
+<h4>Open Publishing</h4>
+<ol>
+<li>
+<a href="https://plot.ly/">Plotly</a>
+</li>
+<li>
+<a href="http://jupyter.org/">Jupyter</a>
+</li>
+<li>
+<a href="http://ipython.org/notebook.html">IPython Notebook</a>
+</li>
+<li>
+<a href="http://bl.ocks.org/">bl.ocks</a>
+</li>
+<li>
+<a href="https://pages.github.com/">GitHub Pages</a>
+</li>
