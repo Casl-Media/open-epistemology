@@ -171,7 +171,7 @@ open culture: <a href="http://www.openculture.com/free_ebooks">ebooks</a>, <a hr
 <a href="http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13">some APIs</a> might qualify
 </li>
 </ol>
-
+<hr>
 <h4>Open Publishing</h4>
 <ol>
 <li>
