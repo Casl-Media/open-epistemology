@@ -27,6 +27,3 @@ Form list of ideas to puruse
 Create
 </li>
 </ol>
-
-
-<p>Created and supported by <a href="http://www.jeclevenger.com">J.E.Clevenger</a> at <a href="http://www.caslmedia.com">Casl Media</a>
