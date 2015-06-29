@@ -184,6 +184,9 @@ open culture: <a href="http://www.openculture.com/free_ebooks">ebooks</a>, <a hr
 <a href="http://ipython.org/notebook.html">IPython Notebook</a>
 </li>
 <li>
+<a href="https://openfolio.com/">Openfolio</a>
+</li>
+<li>
 <a href="http://bl.ocks.org/">bl.ocks</a>
 </li>
 <li>
